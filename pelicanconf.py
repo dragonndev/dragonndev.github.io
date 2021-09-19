@@ -28,7 +28,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/dragonndev'),
-          ('Keybase', 'https://keybase.io/dragonndev'),)
+          ('Keybase', 'https://keybase.io/dragonndev'),
+          ('Github', 'https://github.com/dragonndev',))
 
 DEFAULT_PAGINATION = 10
 
